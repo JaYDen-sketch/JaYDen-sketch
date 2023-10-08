@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JaYDen-sketch
 - 👀 I’m interested in Gaming,Coding
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m looking for an opprtunities to learn
+- 💞️ I’m looking for an opprtunities to learn new things
+  
 - 📫 How to reach me - sanskars349@gmail.com 
 
 <!---
