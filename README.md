@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaYDen-sketch
-- 👀 I’m interested in Gaming,Coding
+- 👀 I’m interested in Gaming,Programming
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking for an opprtunities to learn new things
   
